@@ -1,0 +1,4 @@
+----- -----
+c c:\
+----- -----
+google www.google.com
