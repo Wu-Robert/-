@@ -22,7 +22,7 @@ int main(){
 			case 2:
 				system("cls");
 				if(acc==NULL){
-					printf("½Ğ¥ıµn¤J±b¸¹(«ö¥ô·NÁäÄ~Äò)");
+					printf("è«‹å…ˆç™»å…¥å¸³è™Ÿ(æŒ‰ä»»æ„éµç¹¼çºŒ)");
 				    char temp;
 				    temp=getch();
 				}
